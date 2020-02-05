@@ -1,3 +1,5 @@
+import FlossCard from "../components/FlossCard";
+
 export default () => {
   const sampleFloss = {
     brand: "DMC",
@@ -9,19 +11,7 @@ export default () => {
 
   return (
     <div className="App">
-      <div className="flex">
-        <p className="font-sans text-4xl">{sampleFloss.brand}</p>
-        <p>{sampleFloss.color}</p>
-        <div
-          style={{
-            width: "100px",
-            height: "50px",
-            backgroundColor: `rgb(${sampleFloss.r}, ${sampleFloss.g}, ${
-              sampleFloss.b
-            })`
-          }}
-        />
-      </div>
+      <FlossCard {...sampleFloss} />
     </div>
   );
 };
