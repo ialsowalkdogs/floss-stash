@@ -1,13 +1,6 @@
-import React from "react";
-import Counter from "./Counter";
-
-interface Floss {
-  brand: string;
-  color: number;
-  r: number;
-  g: number;
-  b: number;
-}
+import React from 'react';
+import Counter from './Counter';
+import { Floss } from '../utils/types';
 
 const FlossCard = ({ brand, color, r, g, b }: Floss) => {
   return (
@@ -16,7 +9,7 @@ const FlossCard = ({ brand, color, r, g, b }: Floss) => {
         className="w-16 h-16 relative"
         style={{
           backgroundColor: `rgb(${r}, ${g}, ${b})`,
-          right: "15px"
+          right: '15px',
         }}
       />
       <div className="flex flex-col justify-around">
@@ -25,8 +18,8 @@ const FlossCard = ({ brand, color, r, g, b }: Floss) => {
       </div>
       <p className="text-4xl">0</p>
       <Counter
-        add={() => console.log("Add")}
-        remove={() => console.log("Remove")}
+        add={() => console.log('Add')}
+        remove={() => console.log('Remove')}
       />
     </div>
   );
