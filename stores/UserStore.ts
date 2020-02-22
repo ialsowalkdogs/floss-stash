@@ -1,11 +1,15 @@
-import { observable, action } from 'mobx';
+import { observable, action, computed } from 'mobx';
 import { createContext, useContext } from 'react';
 import { useLocalStore } from 'mobx-react';
 
 export class UserStore {
   id = Math.random();
   @observable name = '';
-  @observable threads = [{ color: 3799, quantity: 1 }];
+  @observable threads = [{ color: 760, quantity: 1 }];
+
+  @computed get threadNumbers() {
+    return this.threads.map(thread => thread.color);
+  }
 
   @action setName = name => {
     this.name = name;
