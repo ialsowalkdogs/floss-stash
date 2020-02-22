@@ -5,7 +5,7 @@ import { useLocalStore } from 'mobx-react';
 export class UserStore {
   id = Math.random();
   @observable name = '';
-  @observable threads = [{ color: '0010', quantity: 1 }];
+  @observable threads = [{ color: 3799, quantity: 1 }];
 
   @action setName = name => {
     this.name = name;
