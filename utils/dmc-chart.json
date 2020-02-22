@@ -1,0 +1,3173 @@
+[
+  {
+    "DMC": 3713,
+    "Description": "Salmon Very Light",
+    "Red": 255,
+    "Green": 226,
+    "Blue": 226
+  },
+  {
+    "DMC": 761,
+    "Description": "Salmon Light",
+    "Red": 255,
+    "Green": 201,
+    "Blue": 201
+  },
+  {
+    "DMC": 760,
+    "Description": "Salmon",
+    "Red": 245,
+    "Green": 173,
+    "Blue": 173
+  },
+  {
+    "DMC": 3712,
+    "Description": "Salmon Medium",
+    "Red": 241,
+    "Green": 135,
+    "Blue": 135
+  },
+  {
+    "DMC": 3328,
+    "Description": "Salmon Dark",
+    "Red": 227,
+    "Green": 109,
+    "Blue": 109
+  },
+  {
+    "DMC": 347,
+    "Description": "Salmon Very Dark",
+    "Red": 191,
+    "Green": 45,
+    "Blue": 45
+  },
+  {
+    "DMC": 353,
+    "Description": "Peach",
+    "Red": 254,
+    "Green": 215,
+    "Blue": 204
+  },
+  {
+    "DMC": 352,
+    "Description": "Coral Light",
+    "Red": 253,
+    "Green": 156,
+    "Blue": 151
+  },
+  {
+    "DMC": 351,
+    "Description": "Coral",
+    "Red": 233,
+    "Green": 106,
+    "Blue": 103
+  },
+  {
+    "DMC": 350,
+    "Description": "Coral Medium",
+    "Red": 224,
+    "Green": 72,
+    "Blue": 72
+  },
+  {
+    "DMC": 349,
+    "Description": "Coral Dark",
+    "Red": 210,
+    "Green": 16,
+    "Blue": 53
+  },
+  {
+    "DMC": 817,
+    "Description": "Coral Red Very Dark",
+    "Red": 187,
+    "Green": 5,
+    "Blue": 31
+  },
+  {
+    "DMC": 3708,
+    "Description": "Melon Light",
+    "Red": 255,
+    "Green": 203,
+    "Blue": 213
+  },
+  {
+    "DMC": 3706,
+    "Description": "Melon Medium",
+    "Red": 255,
+    "Green": 173,
+    "Blue": 188
+  },
+  {
+    "DMC": 3705,
+    "Description": "Melon Dark",
+    "Red": 255,
+    "Green": 121,
+    "Blue": 146
+  },
+  {
+    "DMC": 3801,
+    "Description": "Melon Very Dark",
+    "Red": 231,
+    "Green": 73,
+    "Blue": 103
+  },
+  {
+    "DMC": 666,
+    "Description": "Bright Red",
+    "Red": 227,
+    "Green": 29,
+    "Blue": 66
+  },
+  {
+    "DMC": 321,
+    "Description": "Red",
+    "Red": 199,
+    "Green": 43,
+    "Blue": 59
+  },
+  {
+    "DMC": 304,
+    "Description": "Red Medium",
+    "Red": 183,
+    "Green": 31,
+    "Blue": 51
+  },
+  {
+    "DMC": 498,
+    "Description": "Red Dark",
+    "Red": 167,
+    "Green": 19,
+    "Blue": 43
+  },
+  {
+    "DMC": 816,
+    "Description": "Garnet",
+    "Red": 151,
+    "Green": 11,
+    "Blue": 35
+  },
+  {
+    "DMC": 815,
+    "Description": "Garnet Medium",
+    "Red": 135,
+    "Green": 7,
+    "Blue": 31
+  },
+  {
+    "DMC": 814,
+    "Description": "Garnet Dark",
+    "Red": 123,
+    "Green": 0,
+    "Blue": 27
+  },
+  {
+    "DMC": 894,
+    "Description": "Carnation Very Light",
+    "Red": 255,
+    "Green": 178,
+    "Blue": 187
+  },
+  {
+    "DMC": 893,
+    "Description": "Carnation Light",
+    "Red": 252,
+    "Green": 144,
+    "Blue": 162
+  },
+  {
+    "DMC": 892,
+    "Description": "Carnation Medium",
+    "Red": 255,
+    "Green": 121,
+    "Blue": 140
+  },
+  {
+    "DMC": 891,
+    "Description": "Carnation Dark",
+    "Red": 255,
+    "Green": 87,
+    "Blue": 115
+  },
+  {
+    "DMC": 818,
+    "Description": "Baby Pink",
+    "Red": 255,
+    "Green": 223,
+    "Blue": 217
+  },
+  {
+    "DMC": 957,
+    "Description": "Geranium Pale",
+    "Red": 253,
+    "Green": 181,
+    "Blue": 181
+  },
+  {
+    "DMC": 956,
+    "Description": "Geranium",
+    "Red": 255,
+    "Green": 145,
+    "Blue": 145
+  },
+  {
+    "DMC": 963,
+    "Description": "Dusty Rose Ult Vy Lt",
+    "Red": 255,
+    "Green": 215,
+    "Blue": 215
+  },
+  {
+    "DMC": 3716,
+    "Description": "Dusty Rose Med Vy Lt",
+    "Red": 255,
+    "Green": 189,
+    "Blue": 189
+  },
+  {
+    "DMC": 962,
+    "Description": "Dusty Rose Medium",
+    "Red": 230,
+    "Green": 138,
+    "Blue": 138
+  },
+  {
+    "DMC": 961,
+    "Description": "Dusty Rose Dark",
+    "Red": 207,
+    "Green": 115,
+    "Blue": 115
+  },
+  {
+    "DMC": 3833,
+    "Description": "Raspberry Light",
+    "Red": 234,
+    "Green": 134,
+    "Blue": 153
+  },
+  {
+    "DMC": 3832,
+    "Description": "Raspberry Medium",
+    "Red": 219,
+    "Green": 85,
+    "Blue": 110
+  },
+  {
+    "DMC": 3831,
+    "Description": "Raspberry Dark",
+    "Red": 179,
+    "Green": 47,
+    "Blue": 72
+  },
+  {
+    "DMC": 777,
+    "Description": "Raspberry Very Dark",
+    "Red": 145,
+    "Green": 53,
+    "Blue": 70
+  },
+  {
+    "DMC": 819,
+    "Description": "Baby Pink Light",
+    "Red": 255,
+    "Green": 238,
+    "Blue": 235
+  },
+  {
+    "DMC": 3326,
+    "Description": "Rose Light",
+    "Red": 251,
+    "Green": 173,
+    "Blue": 180
+  },
+  {
+    "DMC": 776,
+    "Description": "Pink Medium",
+    "Red": 252,
+    "Green": 176,
+    "Blue": 185
+  },
+  {
+    "DMC": 899,
+    "Description": "Rose Medium",
+    "Red": 242,
+    "Green": 118,
+    "Blue": 136
+  },
+  {
+    "DMC": 335,
+    "Description": "Rose",
+    "Red": 238,
+    "Green": 84,
+    "Blue": 110
+  },
+  {
+    "DMC": 326,
+    "Description": "Rose Very Dark",
+    "Red": 179,
+    "Green": 59,
+    "Blue": 75
+  },
+  {
+    "DMC": 151,
+    "Description": "Dusty Rose Vry Lt",
+    "Red": 240,
+    "Green": 206,
+    "Blue": 212
+  },
+  {
+    "DMC": 3354,
+    "Description": "Dusty Rose Light",
+    "Red": 228,
+    "Green": 166,
+    "Blue": 172
+  },
+  {
+    "DMC": 3733,
+    "Description": "Dusty Rose",
+    "Red": 232,
+    "Green": 135,
+    "Blue": 155
+  },
+  {
+    "DMC": 3731,
+    "Description": "Dusty Rose Very Dark",
+    "Red": 218,
+    "Green": 103,
+    "Blue": 131
+  },
+  {
+    "DMC": 3350,
+    "Description": "Dusty Rose Ultra Dark",
+    "Red": 188,
+    "Green": 67,
+    "Blue": 101
+  },
+  {
+    "DMC": 150,
+    "Description": "Dusty Rose Ult Vy Dk",
+    "Red": 171,
+    "Green": 2,
+    "Blue": 73
+  },
+  {
+    "DMC": 3689,
+    "Description": "Mauve Light",
+    "Red": 251,
+    "Green": 191,
+    "Blue": 194
+  },
+  {
+    "DMC": 3688,
+    "Description": "Mauve Medium",
+    "Red": 231,
+    "Green": 169,
+    "Blue": 172
+  },
+  {
+    "DMC": 3687,
+    "Description": "Mauve",
+    "Red": 201,
+    "Green": 107,
+    "Blue": 112
+  },
+  {
+    "DMC": 3803,
+    "Description": "Mauve Dark",
+    "Red": 171,
+    "Green": 51,
+    "Blue": 87
+  },
+  {
+    "DMC": 3685,
+    "Description": "Mauve Very Dark",
+    "Red": 136,
+    "Green": 21,
+    "Blue": 49
+  },
+  {
+    "DMC": 605,
+    "Description": "Cranberry Very Light",
+    "Red": 255,
+    "Green": 192,
+    "Blue": 205
+  },
+  {
+    "DMC": 604,
+    "Description": "Cranberry Light",
+    "Red": 255,
+    "Green": 176,
+    "Blue": 190
+  },
+  {
+    "DMC": 603,
+    "Description": "Cranberry",
+    "Red": 255,
+    "Green": 164,
+    "Blue": 190
+  },
+  {
+    "DMC": 602,
+    "Description": "Cranberry Medium",
+    "Red": 226,
+    "Green": 72,
+    "Blue": 116
+  },
+  {
+    "DMC": 601,
+    "Description": "Cranberry Dark",
+    "Red": 209,
+    "Green": 40,
+    "Blue": 106
+  },
+  {
+    "DMC": 600,
+    "Description": "Cranberry Very Dark",
+    "Red": 205,
+    "Green": 47,
+    "Blue": 99
+  },
+  {
+    "DMC": 3806,
+    "Description": "Cyclamen Pink Light",
+    "Red": 255,
+    "Green": 140,
+    "Blue": 174
+  },
+  {
+    "DMC": 3805,
+    "Description": "Cyclamen Pink",
+    "Red": 243,
+    "Green": 71,
+    "Blue": 139
+  },
+  {
+    "DMC": 3804,
+    "Description": "Cyclamen Pink Dark",
+    "Red": 224,
+    "Green": 40,
+    "Blue": 118
+  },
+  {
+    "DMC": 3609,
+    "Description": "Plum Ultra Light",
+    "Red": 244,
+    "Green": 174,
+    "Blue": 213
+  },
+  {
+    "DMC": 3608,
+    "Description": "Plum Very Light",
+    "Red": 234,
+    "Green": 156,
+    "Blue": 196
+  },
+  {
+    "DMC": 3607,
+    "Description": "Plum Light",
+    "Red": 197,
+    "Green": 73,
+    "Blue": 137
+  },
+  {
+    "DMC": 718,
+    "Description": "Plum",
+    "Red": 156,
+    "Green": 36,
+    "Blue": 98
+  },
+  {
+    "DMC": 917,
+    "Description": "Plum Medium",
+    "Red": 155,
+    "Green": 19,
+    "Blue": 89
+  },
+  {
+    "DMC": 915,
+    "Description": "Plum Dark",
+    "Red": 130,
+    "Green": 0,
+    "Blue": 67
+  },
+  {
+    "DMC": 225,
+    "Description": "Shell Pink Ult Vy Lt",
+    "Red": 255,
+    "Green": 223,
+    "Blue": 213
+  },
+  {
+    "DMC": 224,
+    "Description": "Shell Pink Very Light",
+    "Red": 235,
+    "Green": 183,
+    "Blue": 175
+  },
+  {
+    "DMC": 152,
+    "Description": "Shell Pink Med Light",
+    "Red": 226,
+    "Green": 160,
+    "Blue": 153
+  },
+  {
+    "DMC": 223,
+    "Description": "Shell Pink Light",
+    "Red": 204,
+    "Green": 132,
+    "Blue": 124
+  },
+  {
+    "DMC": 3722,
+    "Description": "Shell Pink Med",
+    "Red": 188,
+    "Green": 108,
+    "Blue": 100
+  },
+  {
+    "DMC": 3721,
+    "Description": "Shell Pink Dark",
+    "Red": 161,
+    "Green": 75,
+    "Blue": 81
+  },
+  {
+    "DMC": 221,
+    "Description": "Shell Pink Vy Dk",
+    "Red": 136,
+    "Green": 62,
+    "Blue": 67
+  },
+  {
+    "DMC": 778,
+    "Description": "Antique Mauve Vy Lt",
+    "Red": 223,
+    "Green": 179,
+    "Blue": 187
+  },
+  {
+    "DMC": 3727,
+    "Description": "Antique Mauve Light",
+    "Red": 219,
+    "Green": 169,
+    "Blue": 178
+  },
+  {
+    "DMC": 316,
+    "Description": "Antique Mauve Med",
+    "Red": 183,
+    "Green": 115,
+    "Blue": 127
+  },
+  {
+    "DMC": 3726,
+    "Description": "Antique Mauve Dark",
+    "Red": 155,
+    "Green": 91,
+    "Blue": 102
+  },
+  {
+    "DMC": 315,
+    "Description": "Antique Mauve Md Dk",
+    "Red": 129,
+    "Green": 73,
+    "Blue": 82
+  },
+  {
+    "DMC": 3802,
+    "Description": "Antique Mauve Vy Dk",
+    "Red": 113,
+    "Green": 65,
+    "Blue": 73
+  },
+  {
+    "DMC": 902,
+    "Description": "Garnet Very Dark",
+    "Red": 130,
+    "Green": 38,
+    "Blue": 55
+  },
+  {
+    "DMC": 3743,
+    "Description": "Antique Violet Vy Lt",
+    "Red": 215,
+    "Green": 203,
+    "Blue": 211
+  },
+  {
+    "DMC": 3042,
+    "Description": "Antique Violet Light",
+    "Red": 183,
+    "Green": 157,
+    "Blue": 167
+  },
+  {
+    "DMC": 3041,
+    "Description": "Antique Violet Medium",
+    "Red": 149,
+    "Green": 111,
+    "Blue": 124
+  },
+  {
+    "DMC": 3740,
+    "Description": "Antique Violet Dark",
+    "Red": 120,
+    "Green": 87,
+    "Blue": 98
+  },
+  {
+    "DMC": 3836,
+    "Description": "Grape Light",
+    "Red": 186,
+    "Green": 145,
+    "Blue": 170
+  },
+  {
+    "DMC": 3835,
+    "Description": "Grape Medium",
+    "Red": 148,
+    "Green": 96,
+    "Blue": 131
+  },
+  {
+    "DMC": 3834,
+    "Description": "Grape Dark",
+    "Red": 114,
+    "Green": 55,
+    "Blue": 93
+  },
+  {
+    "DMC": 154,
+    "Description": "Grape Very Dark",
+    "Red": 87,
+    "Green": 36,
+    "Blue": 51
+  },
+  {
+    "DMC": 211,
+    "Description": "Lavender Light",
+    "Red": 227,
+    "Green": 203,
+    "Blue": 227
+  },
+  {
+    "DMC": 210,
+    "Description": "Lavender Medium",
+    "Red": 195,
+    "Green": 159,
+    "Blue": 195
+  },
+  {
+    "DMC": 209,
+    "Description": "Lavender Dark",
+    "Red": 163,
+    "Green": 123,
+    "Blue": 167
+  },
+  {
+    "DMC": 208,
+    "Description": "Lavender Very Dark",
+    "Red": 131,
+    "Green": 91,
+    "Blue": 139
+  },
+  {
+    "DMC": 3837,
+    "Description": "Lavender Ultra Dark",
+    "Red": 108,
+    "Green": 58,
+    "Blue": 110
+  },
+  {
+    "DMC": 327,
+    "Description": "Violet Dark",
+    "Red": 99,
+    "Green": 54,
+    "Blue": 102
+  },
+  {
+    "DMC": 153,
+    "Description": "Violet Very Light",
+    "Red": 230,
+    "Green": 204,
+    "Blue": 217
+  },
+  {
+    "DMC": 554,
+    "Description": "Violet Light",
+    "Red": 219,
+    "Green": 179,
+    "Blue": 203
+  },
+  {
+    "DMC": 553,
+    "Description": "Violet",
+    "Red": 163,
+    "Green": 99,
+    "Blue": 139
+  },
+  {
+    "DMC": 552,
+    "Description": "Violet  Medium",
+    "Red": 128,
+    "Green": 58,
+    "Blue": 107
+  },
+  {
+    "DMC": 550,
+    "Description": "Violet Very Dark",
+    "Red": 92,
+    "Green": 24,
+    "Blue": 78
+  },
+  {
+    "DMC": 3747,
+    "Description": "Blue Violet Vy Lt",
+    "Red": 211,
+    "Green": 215,
+    "Blue": 237
+  },
+  {
+    "DMC": 341,
+    "Description": "Blue Violet Light",
+    "Red": 183,
+    "Green": 191,
+    "Blue": 221
+  },
+  {
+    "DMC": 156,
+    "Description": "Blue Violet Med Lt",
+    "Red": 163,
+    "Green": 174,
+    "Blue": 209
+  },
+  {
+    "DMC": 340,
+    "Description": "Blue Violet Medium",
+    "Red": 173,
+    "Green": 167,
+    "Blue": 199
+  },
+  {
+    "DMC": 155,
+    "Description": "Blue Violet Med Dark",
+    "Red": 152,
+    "Green": 145,
+    "Blue": 182
+  },
+  {
+    "DMC": 3746,
+    "Description": "Blue Violet Dark",
+    "Red": 119,
+    "Green": 107,
+    "Blue": 152
+  },
+  {
+    "DMC": 333,
+    "Description": "Blue Violet Very Dark",
+    "Red": 92,
+    "Green": 84,
+    "Blue": 120
+  },
+  {
+    "DMC": 157,
+    "Description": "Cornflower Blue Vy Lt",
+    "Red": 187,
+    "Green": 195,
+    "Blue": 217
+  },
+  {
+    "DMC": 794,
+    "Description": "Cornflower Blue Light",
+    "Red": 143,
+    "Green": 156,
+    "Blue": 193
+  },
+  {
+    "DMC": 793,
+    "Description": "Cornflower Blue Med",
+    "Red": 112,
+    "Green": 125,
+    "Blue": 162
+  },
+  {
+    "DMC": 3807,
+    "Description": "Cornflower Blue",
+    "Red": 96,
+    "Green": 103,
+    "Blue": 140
+  },
+  {
+    "DMC": 792,
+    "Description": "Cornflower Blue Dark",
+    "Red": 85,
+    "Green": 91,
+    "Blue": 123
+  },
+  {
+    "DMC": 158,
+    "Description": "Cornflower Blu M V D",
+    "Red": 76,
+    "Green": 82,
+    "Blue": 110
+  },
+  {
+    "DMC": 791,
+    "Description": "Cornflower Blue V D",
+    "Red": 70,
+    "Green": 69,
+    "Blue": 99
+  },
+  {
+    "DMC": 3840,
+    "Description": "Lavender Blue Light",
+    "Red": 176,
+    "Green": 192,
+    "Blue": 218
+  },
+  {
+    "DMC": 3839,
+    "Description": "Lavender Blue Med",
+    "Red": 123,
+    "Green": 142,
+    "Blue": 171
+  },
+  {
+    "DMC": 3838,
+    "Description": "Lavender Blue Dark",
+    "Red": 92,
+    "Green": 114,
+    "Blue": 148
+  },
+  {
+    "DMC": 800,
+    "Description": "Delft Blue Pale",
+    "Red": 192,
+    "Green": 204,
+    "Blue": 222
+  },
+  {
+    "DMC": 809,
+    "Description": "Delft Blue",
+    "Red": 148,
+    "Green": 168,
+    "Blue": 198
+  },
+  {
+    "DMC": 799,
+    "Description": "Delft Blue Medium",
+    "Red": 116,
+    "Green": 142,
+    "Blue": 182
+  },
+  {
+    "DMC": 798,
+    "Description": "Delft Blue Dark",
+    "Red": 70,
+    "Green": 106,
+    "Blue": 142
+  },
+  {
+    "DMC": 797,
+    "Description": "Royal Blue",
+    "Red": 19,
+    "Green": 71,
+    "Blue": 125
+  },
+  {
+    "DMC": 796,
+    "Description": "Royal Blue Dark",
+    "Red": 17,
+    "Green": 65,
+    "Blue": 109
+  },
+  {
+    "DMC": 820,
+    "Description": "Royal Blue Very Dark",
+    "Red": 14,
+    "Green": 54,
+    "Blue": 92
+  },
+  {
+    "DMC": 162,
+    "Description": "Blue Ultra Very Light",
+    "Red": 219,
+    "Green": 236,
+    "Blue": 245
+  },
+  {
+    "DMC": 827,
+    "Description": "Blue Very Light",
+    "Red": 189,
+    "Green": 221,
+    "Blue": 237
+  },
+  {
+    "DMC": 813,
+    "Description": "Blue Light",
+    "Red": 161,
+    "Green": 194,
+    "Blue": 215
+  },
+  {
+    "DMC": 826,
+    "Description": "Blue Medium",
+    "Red": 107,
+    "Green": 158,
+    "Blue": 191
+  },
+  {
+    "DMC": 825,
+    "Description": "Blue Dark",
+    "Red": 71,
+    "Green": 129,
+    "Blue": 165
+  },
+  {
+    "DMC": 824,
+    "Description": "Blue Very Dark",
+    "Red": 57,
+    "Green": 105,
+    "Blue": 135
+  },
+  {
+    "DMC": 996,
+    "Description": "Electric Blue Medium",
+    "Red": 48,
+    "Green": 194,
+    "Blue": 236
+  },
+  {
+    "DMC": 3843,
+    "Description": "Electric Blue",
+    "Red": 20,
+    "Green": 170,
+    "Blue": 208
+  },
+  {
+    "DMC": 995,
+    "Description": "Electric Blue Dark",
+    "Red": 38,
+    "Green": 150,
+    "Blue": 182
+  },
+  {
+    "DMC": 3846,
+    "Description": "Turquoise Bright Light",
+    "Red": 6,
+    "Green": 227,
+    "Blue": 230
+  },
+  {
+    "DMC": 3845,
+    "Description": "Turquoise Bright Med",
+    "Red": 4,
+    "Green": 196,
+    "Blue": 202
+  },
+  {
+    "DMC": 3844,
+    "Description": "Turquoise Bright Dark",
+    "Red": 18,
+    "Green": 174,
+    "Blue": 186
+  },
+  {
+    "DMC": 159,
+    "Description": "Blue Gray Light",
+    "Red": 199,
+    "Green": 202,
+    "Blue": 215
+  },
+  {
+    "DMC": 160,
+    "Description": "Blue Gray Medium",
+    "Red": 153,
+    "Green": 159,
+    "Blue": 183
+  },
+  {
+    "DMC": 161,
+    "Description": "Blue Gray",
+    "Red": 120,
+    "Green": 128,
+    "Blue": 164
+  },
+  {
+    "DMC": 3756,
+    "Description": "Baby Blue Ult Vy Lt",
+    "Red": 238,
+    "Green": 252,
+    "Blue": 252
+  },
+  {
+    "DMC": 775,
+    "Description": "Baby Blue Very Light",
+    "Red": 217,
+    "Green": 235,
+    "Blue": 241
+  },
+  {
+    "DMC": 3841,
+    "Description": "Baby Blue Pale",
+    "Red": 205,
+    "Green": 223,
+    "Blue": 237
+  },
+  {
+    "DMC": 3325,
+    "Description": "Baby Blue Light",
+    "Red": 184,
+    "Green": 210,
+    "Blue": 230
+  },
+  {
+    "DMC": 3755,
+    "Description": "Baby Blue",
+    "Red": 147,
+    "Green": 180,
+    "Blue": 206
+  },
+  {
+    "DMC": 334,
+    "Description": "Baby Blue Medium",
+    "Red": 115,
+    "Green": 159,
+    "Blue": 193
+  },
+  {
+    "DMC": 322,
+    "Description": "Baby Blue Dark",
+    "Red": 90,
+    "Green": 143,
+    "Blue": 184
+  },
+  {
+    "DMC": 312,
+    "Description": "Baby Blue Very Dark",
+    "Red": 53,
+    "Green": 102,
+    "Blue": 139
+  },
+  {
+    "DMC": 803,
+    "Description": "Baby Blue Ult Vy Dk",
+    "Red": 44,
+    "Green": 89,
+    "Blue": 124
+  },
+  {
+    "DMC": 336,
+    "Description": "Navy Blue",
+    "Red": 37,
+    "Green": 59,
+    "Blue": 115
+  },
+  {
+    "DMC": 823,
+    "Description": "Navy Blue Dark",
+    "Red": 33,
+    "Green": 48,
+    "Blue": 99
+  },
+  {
+    "DMC": 939,
+    "Description": "Navy Blue Very Dark",
+    "Red": 27,
+    "Green": 40,
+    "Blue": 83
+  },
+  {
+    "DMC": 3753,
+    "Description": "Antique Blue Ult Vy Lt",
+    "Red": 219,
+    "Green": 226,
+    "Blue": 233
+  },
+  {
+    "DMC": 3752,
+    "Description": "Antique Blue Very Lt",
+    "Red": 199,
+    "Green": 209,
+    "Blue": 219
+  },
+  {
+    "DMC": 932,
+    "Description": "Antique Blue Light",
+    "Red": 162,
+    "Green": 181,
+    "Blue": 198
+  },
+  {
+    "DMC": 931,
+    "Description": "Antique Blue Medium",
+    "Red": 106,
+    "Green": 133,
+    "Blue": 158
+  },
+  {
+    "DMC": 930,
+    "Description": "Antique Blue Dark",
+    "Red": 69,
+    "Green": 92,
+    "Blue": 113
+  },
+  {
+    "DMC": 3750,
+    "Description": "Antique Blue Very Dk",
+    "Red": 56,
+    "Green": 76,
+    "Blue": 94
+  },
+  {
+    "DMC": 828,
+    "Description": "Sky Blue Vy Lt",
+    "Red": 197,
+    "Green": 232,
+    "Blue": 237
+  },
+  {
+    "DMC": 3761,
+    "Description": "Sky Blue Light",
+    "Red": 172,
+    "Green": 216,
+    "Blue": 226
+  },
+  {
+    "DMC": 519,
+    "Description": "Sky Blue",
+    "Red": 126,
+    "Green": 177,
+    "Blue": 200
+  },
+  {
+    "DMC": 518,
+    "Description": "Wedgewood Light",
+    "Red": 79,
+    "Green": 147,
+    "Blue": 167
+  },
+  {
+    "DMC": 3760,
+    "Description": "Wedgewood Med",
+    "Red": 62,
+    "Green": 133,
+    "Blue": 162
+  },
+  {
+    "DMC": 517,
+    "Description": "Wedgewood Dark",
+    "Red": 59,
+    "Green": 118,
+    "Blue": 143
+  },
+  {
+    "DMC": 3842,
+    "Description": "Wedgewood Vry Dk",
+    "Red": 50,
+    "Green": 102,
+    "Blue": 124
+  },
+  {
+    "DMC": 311,
+    "Description": "Wedgewood Ult VyDk",
+    "Red": 28,
+    "Green": 80,
+    "Blue": 102
+  },
+  {
+    "DMC": 747,
+    "Description": "Peacock Blue Vy Lt",
+    "Red": 229,
+    "Green": 252,
+    "Blue": 253
+  },
+  {
+    "DMC": 3766,
+    "Description": "Peacock Blue Light",
+    "Red": 153,
+    "Green": 207,
+    "Blue": 217
+  },
+  {
+    "DMC": 807,
+    "Description": "Peacock Blue",
+    "Red": 100,
+    "Green": 171,
+    "Blue": 186
+  },
+  {
+    "DMC": 806,
+    "Description": "Peacock Blue Dark",
+    "Red": 61,
+    "Green": 149,
+    "Blue": 165
+  },
+  {
+    "DMC": 3765,
+    "Description": "Peacock Blue Vy Dk",
+    "Red": 52,
+    "Green": 127,
+    "Blue": 140
+  },
+  {
+    "DMC": 3811,
+    "Description": "Turquoise Very Light",
+    "Red": 188,
+    "Green": 227,
+    "Blue": 230
+  },
+  {
+    "DMC": 598,
+    "Description": "Turquoise Light",
+    "Red": 144,
+    "Green": 195,
+    "Blue": 204
+  },
+  {
+    "DMC": 597,
+    "Description": "Turquoise",
+    "Red": 91,
+    "Green": 163,
+    "Blue": 179
+  },
+  {
+    "DMC": 3810,
+    "Description": "Turquoise Dark",
+    "Red": 72,
+    "Green": 142,
+    "Blue": 154
+  },
+  {
+    "DMC": 3809,
+    "Description": "Turquoise Vy Dark",
+    "Red": 63,
+    "Green": 124,
+    "Blue": 133
+  },
+  {
+    "DMC": 3808,
+    "Description": "Turquoise Ult Vy Dk",
+    "Red": 54,
+    "Green": 105,
+    "Blue": 112
+  },
+  {
+    "DMC": 928,
+    "Description": "Gray Green Vy Lt",
+    "Red": 221,
+    "Green": 227,
+    "Blue": 227
+  },
+  {
+    "DMC": 927,
+    "Description": "Gray Green Light",
+    "Red": 189,
+    "Green": 203,
+    "Blue": 203
+  },
+  {
+    "DMC": 926,
+    "Description": "Gray Green Med",
+    "Red": 152,
+    "Green": 174,
+    "Blue": 174
+  },
+  {
+    "DMC": 3768,
+    "Description": "Gray Green Dark",
+    "Red": 101,
+    "Green": 127,
+    "Blue": 127
+  },
+  {
+    "DMC": 924,
+    "Description": "Gray Green Vy Dark",
+    "Red": 86,
+    "Green": 106,
+    "Blue": 106
+  },
+  {
+    "DMC": 3849,
+    "Description": "Teal Green Light",
+    "Red": 82,
+    "Green": 179,
+    "Blue": 164
+  },
+  {
+    "DMC": 3848,
+    "Description": "Teal Green Med",
+    "Red": 85,
+    "Green": 147,
+    "Blue": 146
+  },
+  {
+    "DMC": 3847,
+    "Description": "Teal Green Dark",
+    "Red": 52,
+    "Green": 125,
+    "Blue": 117
+  },
+  {
+    "DMC": 964,
+    "Description": "Sea Green Light",
+    "Red": 169,
+    "Green": 226,
+    "Blue": 216
+  },
+  {
+    "DMC": 959,
+    "Description": "Sea Green Med",
+    "Red": 89,
+    "Green": 199,
+    "Blue": 180
+  },
+  {
+    "DMC": 958,
+    "Description": "Sea Green Dark",
+    "Red": 62,
+    "Green": 182,
+    "Blue": 161
+  },
+  {
+    "DMC": 3812,
+    "Description": "Sea Green Vy Dk",
+    "Red": 47,
+    "Green": 140,
+    "Blue": 132
+  },
+  {
+    "DMC": 3851,
+    "Description": "Green Bright Lt",
+    "Red": 73,
+    "Green": 179,
+    "Blue": 161
+  },
+  {
+    "DMC": 943,
+    "Description": "Green Bright Md",
+    "Red": 61,
+    "Green": 147,
+    "Blue": 132
+  },
+  {
+    "DMC": 3850,
+    "Description": "Green Bright Dk",
+    "Red": 55,
+    "Green": 132,
+    "Blue": 119
+  },
+  {
+    "DMC": 993,
+    "Description": "Aquamarine Vy Lt",
+    "Red": 144,
+    "Green": 192,
+    "Blue": 180
+  },
+  {
+    "DMC": 992,
+    "Description": "Aquamarine Lt",
+    "Red": 111,
+    "Green": 174,
+    "Blue": 159
+  },
+  {
+    "DMC": 3814,
+    "Description": "Aquamarine",
+    "Red": 80,
+    "Green": 139,
+    "Blue": 125
+  },
+  {
+    "DMC": 991,
+    "Description": "Aquamarine Dk",
+    "Red": 71,
+    "Green": 123,
+    "Blue": 110
+  },
+  {
+    "DMC": 966,
+    "Description": "Jade Ultra Vy Lt",
+    "Red": 185,
+    "Green": 215,
+    "Blue": 192
+  },
+  {
+    "DMC": 564,
+    "Description": "Jade Very Light",
+    "Red": 167,
+    "Green": 205,
+    "Blue": 175
+  },
+  {
+    "DMC": 563,
+    "Description": "Jade Light",
+    "Red": 143,
+    "Green": 192,
+    "Blue": 152
+  },
+  {
+    "DMC": 562,
+    "Description": "Jade Medium",
+    "Red": 83,
+    "Green": 151,
+    "Blue": 106
+  },
+  {
+    "DMC": 505,
+    "Description": "Jade Green",
+    "Red": 51,
+    "Green": 131,
+    "Blue": 98
+  },
+  {
+    "DMC": 3817,
+    "Description": "Celadon Green Lt",
+    "Red": 153,
+    "Green": 195,
+    "Blue": 170
+  },
+  {
+    "DMC": 3816,
+    "Description": "Celadon Green",
+    "Red": 101,
+    "Green": 165,
+    "Blue": 125
+  },
+  {
+    "DMC": 163,
+    "Description": "Celadon Green Md",
+    "Red": 77,
+    "Green": 131,
+    "Blue": 97
+  },
+  {
+    "DMC": 3815,
+    "Description": "Celadon Green Dk",
+    "Red": 71,
+    "Green": 119,
+    "Blue": 89
+  },
+  {
+    "DMC": 561,
+    "Description": "Celadon Green VD",
+    "Red": 44,
+    "Green": 106,
+    "Blue": 69
+  },
+  {
+    "DMC": 504,
+    "Description": "Blue Green Vy Lt",
+    "Red": 196,
+    "Green": 222,
+    "Blue": 204
+  },
+  {
+    "DMC": 3813,
+    "Description": "Blue Green Lt",
+    "Red": 178,
+    "Green": 212,
+    "Blue": 189
+  },
+  {
+    "DMC": 503,
+    "Description": "Blue Green Med",
+    "Red": 123,
+    "Green": 172,
+    "Blue": 148
+  },
+  {
+    "DMC": 502,
+    "Description": "Blue Green",
+    "Red": 91,
+    "Green": 144,
+    "Blue": 113
+  },
+  {
+    "DMC": 501,
+    "Description": "Blue Green Dark",
+    "Red": 57,
+    "Green": 111,
+    "Blue": 82
+  },
+  {
+    "DMC": 500,
+    "Description": "Blue Green Vy Dk",
+    "Red": 4,
+    "Green": 77,
+    "Blue": 51
+  },
+  {
+    "DMC": 955,
+    "Description": "Nile Green Light",
+    "Red": 162,
+    "Green": 214,
+    "Blue": 173
+  },
+  {
+    "DMC": 954,
+    "Description": "Nile Green",
+    "Red": 136,
+    "Green": 186,
+    "Blue": 145
+  },
+  {
+    "DMC": 913,
+    "Description": "Nile Green Med",
+    "Red": 109,
+    "Green": 171,
+    "Blue": 119
+  },
+  {
+    "DMC": 912,
+    "Description": "Emerald Green Lt",
+    "Red": 27,
+    "Green": 157,
+    "Blue": 107
+  },
+  {
+    "DMC": 911,
+    "Description": "Emerald Green Med",
+    "Red": 24,
+    "Green": 144,
+    "Blue": 101
+  },
+  {
+    "DMC": 910,
+    "Description": "Emerald Green Dark",
+    "Red": 24,
+    "Green": 126,
+    "Blue": 86
+  },
+  {
+    "DMC": 909,
+    "Description": "Emerald Green Vy Dk",
+    "Red": 21,
+    "Green": 111,
+    "Blue": 73
+  },
+  {
+    "DMC": 3818,
+    "Description": "Emerald Grn Ult V Dk",
+    "Red": 17,
+    "Green": 90,
+    "Blue": 59
+  },
+  {
+    "DMC": 369,
+    "Description": "Pistachio Green Vy Lt",
+    "Red": 215,
+    "Green": 237,
+    "Blue": 204
+  },
+  {
+    "DMC": 368,
+    "Description": "Pistachio Green Lt",
+    "Red": 166,
+    "Green": 194,
+    "Blue": 152
+  },
+  {
+    "DMC": 320,
+    "Description": "Pistachio Green Med",
+    "Red": 105,
+    "Green": 136,
+    "Blue": 90
+  },
+  {
+    "DMC": 367,
+    "Description": "Pistachio Green Dk",
+    "Red": 97,
+    "Green": 122,
+    "Blue": 82
+  },
+  {
+    "DMC": 319,
+    "Description": "Pistachio Grn Vy Dk",
+    "Red": 32,
+    "Green": 95,
+    "Blue": 46
+  },
+  {
+    "DMC": 890,
+    "Description": "Pistachio Grn Ult V D",
+    "Red": 23,
+    "Green": 73,
+    "Blue": 35
+  },
+  {
+    "DMC": 164,
+    "Description": "Forest Green Lt",
+    "Red": 200,
+    "Green": 216,
+    "Blue": 184
+  },
+  {
+    "DMC": 989,
+    "Description": "Forest Green",
+    "Red": 141,
+    "Green": 166,
+    "Blue": 117
+  },
+  {
+    "DMC": 988,
+    "Description": "Forest Green Med",
+    "Red": 115,
+    "Green": 139,
+    "Blue": 91
+  },
+  {
+    "DMC": 987,
+    "Description": "Forest Green Dk",
+    "Red": 88,
+    "Green": 113,
+    "Blue": 65
+  },
+  {
+    "DMC": 986,
+    "Description": "Forest Green Vy Dk",
+    "Red": 64,
+    "Green": 82,
+    "Blue": 48
+  },
+  {
+    "DMC": 772,
+    "Description": "Yellow Green Vy Lt",
+    "Red": 228,
+    "Green": 236,
+    "Blue": 212
+  },
+  {
+    "DMC": 3348,
+    "Description": "Yellow Green Lt",
+    "Red": 204,
+    "Green": 217,
+    "Blue": 177
+  },
+  {
+    "DMC": 3347,
+    "Description": "Yellow Green Med",
+    "Red": 113,
+    "Green": 147,
+    "Blue": 92
+  },
+  {
+    "DMC": 3346,
+    "Description": "Hunter Green",
+    "Red": 64,
+    "Green": 106,
+    "Blue": 58
+  },
+  {
+    "DMC": 3345,
+    "Description": "Hunter Green Dk",
+    "Red": 27,
+    "Green": 89,
+    "Blue": 21
+  },
+  {
+    "DMC": 895,
+    "Description": "Hunter Green Vy Dk",
+    "Red": 27,
+    "Green": 83,
+    "Blue": 0
+  },
+  {
+    "DMC": 704,
+    "Description": "Chartreuse Bright",
+    "Red": 158,
+    "Green": 207,
+    "Blue": 52
+  },
+  {
+    "DMC": 703,
+    "Description": "Chartreuse",
+    "Red": 123,
+    "Green": 181,
+    "Blue": 71
+  },
+  {
+    "DMC": 702,
+    "Description": "Kelly Green",
+    "Red": 71,
+    "Green": 167,
+    "Blue": 47
+  },
+  {
+    "DMC": 701,
+    "Description": "Green Light",
+    "Red": 63,
+    "Green": 143,
+    "Blue": 41
+  },
+  {
+    "DMC": 700,
+    "Description": "Green Bright",
+    "Red": 7,
+    "Green": 115,
+    "Blue": 27
+  },
+  {
+    "DMC": 699,
+    "Description": "Green",
+    "Red": 5,
+    "Green": 101,
+    "Blue": 23
+  },
+  {
+    "DMC": 907,
+    "Description": "Parrot Green Lt",
+    "Red": 199,
+    "Green": 230,
+    "Blue": 102
+  },
+  {
+    "DMC": 906,
+    "Description": "Parrot Green Md",
+    "Red": 127,
+    "Green": 179,
+    "Blue": 53
+  },
+  {
+    "DMC": 905,
+    "Description": "Parrot Green Dk",
+    "Red": 98,
+    "Green": 138,
+    "Blue": 40
+  },
+  {
+    "DMC": 904,
+    "Description": "Parrot Green V Dk",
+    "Red": 85,
+    "Green": 120,
+    "Blue": 34
+  },
+  {
+    "DMC": 472,
+    "Description": "Avocado Grn U Lt",
+    "Red": 216,
+    "Green": 228,
+    "Blue": 152
+  },
+  {
+    "DMC": 471,
+    "Description": "Avocado Grn V Lt",
+    "Red": 174,
+    "Green": 191,
+    "Blue": 121
+  },
+  {
+    "DMC": 470,
+    "Description": "Avocado Grn Lt",
+    "Red": 148,
+    "Green": 171,
+    "Blue": 79
+  },
+  {
+    "DMC": 469,
+    "Description": "Avocado Green",
+    "Red": 114,
+    "Green": 132,
+    "Blue": 60
+  },
+  {
+    "DMC": 937,
+    "Description": "Avocado Green Md",
+    "Red": 98,
+    "Green": 113,
+    "Blue": 51
+  },
+  {
+    "DMC": 936,
+    "Description": "Avocado Grn V Dk",
+    "Red": 76,
+    "Green": 88,
+    "Blue": 38
+  },
+  {
+    "DMC": 935,
+    "Description": "Avocado Green Dk",
+    "Red": 66,
+    "Green": 77,
+    "Blue": 33
+  },
+  {
+    "DMC": 934,
+    "Description": "Avocado Grn Black",
+    "Red": 49,
+    "Green": 57,
+    "Blue": 25
+  },
+  {
+    "DMC": 523,
+    "Description": "Fern Green Lt",
+    "Red": 171,
+    "Green": 177,
+    "Blue": 151
+  },
+  {
+    "DMC": 3053,
+    "Description": "Green Gray",
+    "Red": 156,
+    "Green": 164,
+    "Blue": 130
+  },
+  {
+    "DMC": 3052,
+    "Description": "Green Gray Md",
+    "Red": 136,
+    "Green": 146,
+    "Blue": 104
+  },
+  {
+    "DMC": 3051,
+    "Description": "Green Gray Dk",
+    "Red": 95,
+    "Green": 102,
+    "Blue": 72
+  },
+  {
+    "DMC": 524,
+    "Description": "Fern Green Vy Lt",
+    "Red": 196,
+    "Green": 205,
+    "Blue": 172
+  },
+  {
+    "DMC": 522,
+    "Description": "Fern Green",
+    "Red": 150,
+    "Green": 158,
+    "Blue": 126
+  },
+  {
+    "DMC": 520,
+    "Description": "Fern Green Dark",
+    "Red": 102,
+    "Green": 109,
+    "Blue": 79
+  },
+  {
+    "DMC": 3364,
+    "Description": "Pine Green",
+    "Red": 131,
+    "Green": 151,
+    "Blue": 95
+  },
+  {
+    "DMC": 3363,
+    "Description": "Pine Green Md",
+    "Red": 114,
+    "Green": 130,
+    "Blue": 86
+  },
+  {
+    "DMC": 3362,
+    "Description": "Pine Green Dk",
+    "Red": 94,
+    "Green": 107,
+    "Blue": 71
+  },
+  {
+    "DMC": 165,
+    "Description": "Moss Green Vy Lt",
+    "Red": 239,
+    "Green": 244,
+    "Blue": 164
+  },
+  {
+    "DMC": 3819,
+    "Description": "Moss Green Lt",
+    "Red": 224,
+    "Green": 232,
+    "Blue": 104
+  },
+  {
+    "DMC": 166,
+    "Description": "Moss Green Md Lt",
+    "Red": 192,
+    "Green": 200,
+    "Blue": 64
+  },
+  {
+    "DMC": 581,
+    "Description": "Moss Green",
+    "Red": 167,
+    "Green": 174,
+    "Blue": 56
+  },
+  {
+    "DMC": 580,
+    "Description": "Moss Green Dk",
+    "Red": 136,
+    "Green": 141,
+    "Blue": 51
+  },
+  {
+    "DMC": 734,
+    "Description": "Olive Green Lt",
+    "Red": 199,
+    "Green": 192,
+    "Blue": 119
+  },
+  {
+    "DMC": 733,
+    "Description": "Olive Green Md",
+    "Red": 188,
+    "Green": 179,
+    "Blue": 76
+  },
+  {
+    "DMC": 732,
+    "Description": "Olive Green",
+    "Red": 148,
+    "Green": 140,
+    "Blue": 54
+  },
+  {
+    "DMC": 731,
+    "Description": "Olive Green Dk",
+    "Red": 147,
+    "Green": 139,
+    "Blue": 55
+  },
+  {
+    "DMC": 730,
+    "Description": "Olive Green V Dk",
+    "Red": 130,
+    "Green": 123,
+    "Blue": 48
+  },
+  {
+    "DMC": 3013,
+    "Description": "Khaki Green Lt",
+    "Red": 185,
+    "Green": 185,
+    "Blue": 130
+  },
+  {
+    "DMC": 3012,
+    "Description": "Khaki Green Md",
+    "Red": 166,
+    "Green": 167,
+    "Blue": 93
+  },
+  {
+    "DMC": 3011,
+    "Description": "Khaki Green Dk",
+    "Red": 137,
+    "Green": 138,
+    "Blue": 88
+  },
+  {
+    "DMC": 372,
+    "Description": "Mustard Lt",
+    "Red": 204,
+    "Green": 183,
+    "Blue": 132
+  },
+  {
+    "DMC": 371,
+    "Description": "Mustard",
+    "Red": 191,
+    "Green": 166,
+    "Blue": 113
+  },
+  {
+    "DMC": 370,
+    "Description": "Mustard Medium",
+    "Red": 184,
+    "Green": 157,
+    "Blue": 100
+  },
+  {
+    "DMC": 834,
+    "Description": "Golden Olive Vy Lt",
+    "Red": 219,
+    "Green": 190,
+    "Blue": 127
+  },
+  {
+    "DMC": 833,
+    "Description": "Golden Olive Lt",
+    "Red": 200,
+    "Green": 171,
+    "Blue": 108
+  },
+  {
+    "DMC": 832,
+    "Description": "Golden Olive",
+    "Red": 189,
+    "Green": 155,
+    "Blue": 81
+  },
+  {
+    "DMC": 831,
+    "Description": "Golden Olive Md",
+    "Red": 170,
+    "Green": 143,
+    "Blue": 86
+  },
+  {
+    "DMC": 830,
+    "Description": "Golden Olive Dk",
+    "Red": 141,
+    "Green": 120,
+    "Blue": 75
+  },
+  {
+    "DMC": 829,
+    "Description": "Golden Olive Vy Dk",
+    "Red": 126,
+    "Green": 107,
+    "Blue": 66
+  },
+  {
+    "DMC": 613,
+    "Description": "Drab Brown V Lt",
+    "Red": 220,
+    "Green": 196,
+    "Blue": 170
+  },
+  {
+    "DMC": 612,
+    "Description": "Drab Brown Lt",
+    "Red": 188,
+    "Green": 154,
+    "Blue": 120
+  },
+  {
+    "DMC": 611,
+    "Description": "Drab Brown",
+    "Red": 150,
+    "Green": 118,
+    "Blue": 86
+  },
+  {
+    "DMC": 610,
+    "Description": "Drab Brown Dk",
+    "Red": 121,
+    "Green": 96,
+    "Blue": 71
+  },
+  {
+    "DMC": 3047,
+    "Description": "Yellow Beige Lt",
+    "Red": 231,
+    "Green": 214,
+    "Blue": 193
+  },
+  {
+    "DMC": 3046,
+    "Description": "Yellow Beige Md",
+    "Red": 216,
+    "Green": 188,
+    "Blue": 154
+  },
+  {
+    "DMC": 3045,
+    "Description": "Yellow Beige Dk",
+    "Red": 188,
+    "Green": 150,
+    "Blue": 106
+  },
+  {
+    "DMC": 167,
+    "Description": "Yellow Beige V Dk",
+    "Red": 167,
+    "Green": 124,
+    "Blue": 73
+  },
+  {
+    "DMC": 746,
+    "Description": "Off White",
+    "Red": 252,
+    "Green": 252,
+    "Blue": 238
+  },
+  {
+    "DMC": 677,
+    "Description": "Old Gold Vy Lt",
+    "Red": 245,
+    "Green": 236,
+    "Blue": 203
+  },
+  {
+    "DMC": 422,
+    "Description": "Hazelnut Brown Lt",
+    "Red": 198,
+    "Green": 159,
+    "Blue": 123
+  },
+  {
+    "DMC": 3828,
+    "Description": "Hazelnut Brown",
+    "Red": 183,
+    "Green": 139,
+    "Blue": 97
+  },
+  {
+    "DMC": 420,
+    "Description": "Hazelnut Brown Dk",
+    "Red": 160,
+    "Green": 112,
+    "Blue": 66
+  },
+  {
+    "DMC": 869,
+    "Description": "Hazelnut Brown V Dk",
+    "Red": 131,
+    "Green": 94,
+    "Blue": 57
+  },
+  {
+    "DMC": 728,
+    "Description": "Topaz",
+    "Red": 228,
+    "Green": 180,
+    "Blue": 104
+  },
+  {
+    "DMC": 783,
+    "Description": "Topaz Medium",
+    "Red": 206,
+    "Green": 145,
+    "Blue": 36
+  },
+  {
+    "DMC": 782,
+    "Description": "Topaz Dark",
+    "Red": 174,
+    "Green": 119,
+    "Blue": 32
+  },
+  {
+    "DMC": 781,
+    "Description": "Topaz Very Dark",
+    "Red": 162,
+    "Green": 109,
+    "Blue": 32
+  },
+  {
+    "DMC": 780,
+    "Description": "Topaz Ultra Vy Dk",
+    "Red": 148,
+    "Green": 99,
+    "Blue": 26
+  },
+  {
+    "DMC": 676,
+    "Description": "Old Gold Lt",
+    "Red": 229,
+    "Green": 206,
+    "Blue": 151
+  },
+  {
+    "DMC": 729,
+    "Description": "Old Gold Medium",
+    "Red": 208,
+    "Green": 165,
+    "Blue": 62
+  },
+  {
+    "DMC": 680,
+    "Description": "Old Gold Dark",
+    "Red": 188,
+    "Green": 141,
+    "Blue": 14
+  },
+  {
+    "DMC": 3829,
+    "Description": "Old Gold Vy Dark",
+    "Red": 169,
+    "Green": 130,
+    "Blue": 4
+  },
+  {
+    "DMC": 3822,
+    "Description": "Straw Light",
+    "Red": 246,
+    "Green": 220,
+    "Blue": 152
+  },
+  {
+    "DMC": 3821,
+    "Description": "Straw",
+    "Red": 243,
+    "Green": 206,
+    "Blue": 117
+  },
+  {
+    "DMC": 3820,
+    "Description": "Straw Dark",
+    "Red": 223,
+    "Green": 182,
+    "Blue": 95
+  },
+  {
+    "DMC": 3852,
+    "Description": "Straw Very Dark",
+    "Red": 205,
+    "Green": 157,
+    "Blue": 55
+  },
+  {
+    "DMC": 445,
+    "Description": "Lemon Light",
+    "Red": 255,
+    "Green": 251,
+    "Blue": 139
+  },
+  {
+    "DMC": 307,
+    "Description": "Lemon",
+    "Red": 253,
+    "Green": 237,
+    "Blue": 84
+  },
+  {
+    "DMC": 973,
+    "Description": "Canary Bright",
+    "Red": 255,
+    "Green": 227,
+    "Blue": 0
+  },
+  {
+    "DMC": 444,
+    "Description": "Lemon Dark",
+    "Red": 255,
+    "Green": 214,
+    "Blue": 0
+  },
+  {
+    "DMC": 3078,
+    "Description": "Golden Yellow Vy Lt",
+    "Red": 253,
+    "Green": 249,
+    "Blue": 205
+  },
+  {
+    "DMC": 727,
+    "Description": "Topaz Vy Lt",
+    "Red": 255,
+    "Green": 241,
+    "Blue": 175
+  },
+  {
+    "DMC": 726,
+    "Description": "Topaz Light",
+    "Red": 253,
+    "Green": 215,
+    "Blue": 85
+  },
+  {
+    "DMC": 725,
+    "Description": "Topaz Med Lt",
+    "Red": 255,
+    "Green": 200,
+    "Blue": 64
+  },
+  {
+    "DMC": 972,
+    "Description": "Canary Deep",
+    "Red": 255,
+    "Green": 181,
+    "Blue": 21
+  },
+  {
+    "DMC": 745,
+    "Description": "Yellow Pale Light",
+    "Red": 255,
+    "Green": 233,
+    "Blue": 173
+  },
+  {
+    "DMC": 744,
+    "Description": "Yellow Pale",
+    "Red": 255,
+    "Green": 231,
+    "Blue": 147
+  },
+  {
+    "DMC": 743,
+    "Description": "Yellow Med",
+    "Red": 254,
+    "Green": 211,
+    "Blue": 118
+  },
+  {
+    "DMC": 742,
+    "Description": "Tangerine Light",
+    "Red": 255,
+    "Green": 191,
+    "Blue": 87
+  },
+  {
+    "DMC": 741,
+    "Description": "Tangerine Med",
+    "Red": 255,
+    "Green": 163,
+    "Blue": 43
+  },
+  {
+    "DMC": 740,
+    "Description": "Tangerine",
+    "Red": 255,
+    "Green": 139,
+    "Blue": 0
+  },
+  {
+    "DMC": 970,
+    "Description": "Pumpkin Light",
+    "Red": 247,
+    "Green": 139,
+    "Blue": 19
+  },
+  {
+    "DMC": 971,
+    "Description": "Pumpkin",
+    "Red": 246,
+    "Green": 127,
+    "Blue": 0
+  },
+  {
+    "DMC": 947,
+    "Description": "Burnt Orange",
+    "Red": 255,
+    "Green": 123,
+    "Blue": 77
+  },
+  {
+    "DMC": 946,
+    "Description": "Burnt Orange Med",
+    "Red": 235,
+    "Green": 99,
+    "Blue": 7
+  },
+  {
+    "DMC": 900,
+    "Description": "Burnt Orange Dark",
+    "Red": 209,
+    "Green": 88,
+    "Blue": 7
+  },
+  {
+    "DMC": 967,
+    "Description": "Apricot Very Light",
+    "Red": 255,
+    "Green": 222,
+    "Blue": 213
+  },
+  {
+    "DMC": 3824,
+    "Description": "Apricot Light",
+    "Red": 254,
+    "Green": 205,
+    "Blue": 194
+  },
+  {
+    "DMC": 3341,
+    "Description": "Apricot",
+    "Red": 252,
+    "Green": 171,
+    "Blue": 152
+  },
+  {
+    "DMC": 3340,
+    "Description": "Apricot Med",
+    "Red": 255,
+    "Green": 131,
+    "Blue": 111
+  },
+  {
+    "DMC": 608,
+    "Description": "Burnt Orange Bright",
+    "Red": 253,
+    "Green": 93,
+    "Blue": 53
+  },
+  {
+    "DMC": 606,
+    "Description": "Orange‑Red Bright",
+    "Red": 250,
+    "Green": 50,
+    "Blue": 3
+  },
+  {
+    "DMC": 951,
+    "Description": "Tawny Light",
+    "Red": 255,
+    "Green": 226,
+    "Blue": 207
+  },
+  {
+    "DMC": 3856,
+    "Description": "Mahogany Ult Vy Lt",
+    "Red": 255,
+    "Green": 211,
+    "Blue": 181
+  },
+  {
+    "DMC": 722,
+    "Description": "Orange Spice Light",
+    "Red": 247,
+    "Green": 151,
+    "Blue": 111
+  },
+  {
+    "DMC": 721,
+    "Description": "Orange Spice Med",
+    "Red": 242,
+    "Green": 120,
+    "Blue": 66
+  },
+  {
+    "DMC": 720,
+    "Description": "Orange Spice Dark",
+    "Red": 229,
+    "Green": 92,
+    "Blue": 31
+  },
+  {
+    "DMC": 3825,
+    "Description": "Pumpkin Pale",
+    "Red": 253,
+    "Green": 189,
+    "Blue": 150
+  },
+  {
+    "DMC": 922,
+    "Description": "Copper Light",
+    "Red": 226,
+    "Green": 115,
+    "Blue": 35
+  },
+  {
+    "DMC": 921,
+    "Description": "Copper",
+    "Red": 198,
+    "Green": 98,
+    "Blue": 24
+  },
+  {
+    "DMC": 920,
+    "Description": "Copper Med",
+    "Red": 172,
+    "Green": 84,
+    "Blue": 20
+  },
+  {
+    "DMC": 919,
+    "Description": "Red‑Copper",
+    "Red": 166,
+    "Green": 69,
+    "Blue": 16
+  },
+  {
+    "DMC": 918,
+    "Description": "Red‑Copper Dark",
+    "Red": 130,
+    "Green": 52,
+    "Blue": 10
+  },
+  {
+    "DMC": 3770,
+    "Description": "Tawny Vy Light",
+    "Red": 255,
+    "Green": 238,
+    "Blue": 227
+  },
+  {
+    "DMC": 945,
+    "Description": "Tawny",
+    "Red": 251,
+    "Green": 213,
+    "Blue": 187
+  },
+  {
+    "DMC": 402,
+    "Description": "Mahogany Vy Lt",
+    "Red": 247,
+    "Green": 167,
+    "Blue": 119
+  },
+  {
+    "DMC": 3776,
+    "Description": "Mahogany Light",
+    "Red": 207,
+    "Green": 121,
+    "Blue": 57
+  },
+  {
+    "DMC": 301,
+    "Description": "Mahogany Med",
+    "Red": 179,
+    "Green": 95,
+    "Blue": 43
+  },
+  {
+    "DMC": 400,
+    "Description": "Mahogany Dark",
+    "Red": 143,
+    "Green": 67,
+    "Blue": 15
+  },
+  {
+    "DMC": 300,
+    "Description": "Mahogany Vy Dk",
+    "Red": 111,
+    "Green": 47,
+    "Blue": 0
+  },
+  {
+    "DMC": 3823,
+    "Description": "Yellow Ultra Pale",
+    "Red": 255,
+    "Green": 253,
+    "Blue": 227
+  },
+  {
+    "DMC": 3855,
+    "Description": "Autumn Gold Lt",
+    "Red": 250,
+    "Green": 211,
+    "Blue": 150
+  },
+  {
+    "DMC": 3854,
+    "Description": "Autumn Gold Med",
+    "Red": 242,
+    "Green": 175,
+    "Blue": 104
+  },
+  {
+    "DMC": 3853,
+    "Description": "Autumn Gold Dk",
+    "Red": 242,
+    "Green": 151,
+    "Blue": 70
+  },
+  {
+    "DMC": 3827,
+    "Description": "Golden Brown Pale",
+    "Red": 247,
+    "Green": 187,
+    "Blue": 119
+  },
+  {
+    "DMC": 977,
+    "Description": "Golden Brown Light",
+    "Red": 220,
+    "Green": 156,
+    "Blue": 86
+  },
+  {
+    "DMC": 976,
+    "Description": "Golden Brown Med",
+    "Red": 194,
+    "Green": 129,
+    "Blue": 66
+  },
+  {
+    "DMC": 3826,
+    "Description": "Golden Brown",
+    "Red": 173,
+    "Green": 114,
+    "Blue": 57
+  },
+  {
+    "DMC": 975,
+    "Description": "Golden Brown Dk",
+    "Red": 145,
+    "Green": 79,
+    "Blue": 18
+  },
+  {
+    "DMC": 948,
+    "Description": "Peach Very Light",
+    "Red": 254,
+    "Green": 231,
+    "Blue": 218
+  },
+  {
+    "DMC": 754,
+    "Description": "Peach Light",
+    "Red": 247,
+    "Green": 203,
+    "Blue": 191
+  },
+  {
+    "DMC": 3771,
+    "Description": "Terra Cotta Ult Vy Lt",
+    "Red": 244,
+    "Green": 187,
+    "Blue": 169
+  },
+  {
+    "DMC": 758,
+    "Description": "Terra Cotta Vy Lt",
+    "Red": 238,
+    "Green": 170,
+    "Blue": 155
+  },
+  {
+    "DMC": 3778,
+    "Description": "Terra Cotta Light",
+    "Red": 217,
+    "Green": 137,
+    "Blue": 120
+  },
+  {
+    "DMC": 356,
+    "Description": "Terra Cotta Med",
+    "Red": 197,
+    "Green": 106,
+    "Blue": 91
+  },
+  {
+    "DMC": 3830,
+    "Description": "Terra Cotta",
+    "Red": 185,
+    "Green": 85,
+    "Blue": 68
+  },
+  {
+    "DMC": 355,
+    "Description": "Terra Cotta Dark",
+    "Red": 152,
+    "Green": 68,
+    "Blue": 54
+  },
+  {
+    "DMC": 3777,
+    "Description": "Terra Cotta Vy Dk",
+    "Red": 134,
+    "Green": 48,
+    "Blue": 34
+  },
+  {
+    "DMC": 3779,
+    "Description": "Rosewood Ult Vy Lt",
+    "Red": 248,
+    "Green": 202,
+    "Blue": 200
+  },
+  {
+    "DMC": 3859,
+    "Description": "Rosewood Light",
+    "Red": 186,
+    "Green": 139,
+    "Blue": 124
+  },
+  {
+    "DMC": 3858,
+    "Description": "Rosewood Med",
+    "Red": 150,
+    "Green": 74,
+    "Blue": 63
+  },
+  {
+    "DMC": 3857,
+    "Description": "Rosewood Dark",
+    "Red": 104,
+    "Green": 37,
+    "Blue": 26
+  },
+  {
+    "DMC": 3774,
+    "Description": "Desert Sand Vy Lt",
+    "Red": 243,
+    "Green": 225,
+    "Blue": 215
+  },
+  {
+    "DMC": 950,
+    "Description": "Desert Sand Light",
+    "Red": 238,
+    "Green": 211,
+    "Blue": 196
+  },
+  {
+    "DMC": 3064,
+    "Description": "Desert Sand",
+    "Red": 196,
+    "Green": 142,
+    "Blue": 112
+  },
+  {
+    "DMC": 407,
+    "Description": "Desert Sand Med",
+    "Red": 187,
+    "Green": 129,
+    "Blue": 97
+  },
+  {
+    "DMC": 3773,
+    "Description": "Desert Sand Dark",
+    "Red": 182,
+    "Green": 117,
+    "Blue": 82
+  },
+  {
+    "DMC": 3772,
+    "Description": "Desert Sand Vy Dk",
+    "Red": 160,
+    "Green": 108,
+    "Blue": 80
+  },
+  {
+    "DMC": 632,
+    "Description": "Desert Sand Ult Vy Dk",
+    "Red": 135,
+    "Green": 85,
+    "Blue": 57
+  },
+  {
+    "DMC": 453,
+    "Description": "Shell Gray Light",
+    "Red": 215,
+    "Green": 206,
+    "Blue": 203
+  },
+  {
+    "DMC": 452,
+    "Description": "Shell Gray Med",
+    "Red": 192,
+    "Green": 179,
+    "Blue": 174
+  },
+  {
+    "DMC": 451,
+    "Description": "Shell Gray Dark",
+    "Red": 145,
+    "Green": 123,
+    "Blue": 115
+  },
+  {
+    "DMC": 3861,
+    "Description": "Cocoa Light",
+    "Red": 166,
+    "Green": 136,
+    "Blue": 129
+  },
+  {
+    "DMC": 3860,
+    "Description": "Cocoa",
+    "Red": 125,
+    "Green": 93,
+    "Blue": 87
+  },
+  {
+    "DMC": 779,
+    "Description": "Cocoa Dark",
+    "Red": 98,
+    "Green": 75,
+    "Blue": 69
+  },
+  {
+    "DMC": 712,
+    "Description": "Cream",
+    "Red": 255,
+    "Green": 251,
+    "Blue": 239
+  },
+  {
+    "DMC": 739,
+    "Description": "Tan Ult Vy Lt",
+    "Red": 248,
+    "Green": 228,
+    "Blue": 200
+  },
+  {
+    "DMC": 738,
+    "Description": "Tan Very Light",
+    "Red": 236,
+    "Green": 204,
+    "Blue": 158
+  },
+  {
+    "DMC": 437,
+    "Description": "Tan Light",
+    "Red": 228,
+    "Green": 187,
+    "Blue": 142
+  },
+  {
+    "DMC": 436,
+    "Description": "Tan",
+    "Red": 203,
+    "Green": 144,
+    "Blue": 81
+  },
+  {
+    "DMC": 435,
+    "Description": "Brown Very Light",
+    "Red": 184,
+    "Green": 119,
+    "Blue": 72
+  },
+  {
+    "DMC": 434,
+    "Description": "Brown Light",
+    "Red": 152,
+    "Green": 94,
+    "Blue": 51
+  },
+  {
+    "DMC": 433,
+    "Description": "Brown Med",
+    "Red": 122,
+    "Green": 69,
+    "Blue": 31
+  },
+  {
+    "DMC": 801,
+    "Description": "Coffee Brown Dk",
+    "Red": 101,
+    "Green": 57,
+    "Blue": 25
+  },
+  {
+    "DMC": 898,
+    "Description": "Coffee Brown Vy Dk",
+    "Red": 73,
+    "Green": 42,
+    "Blue": 19
+  },
+  {
+    "DMC": 938,
+    "Description": "Coffee Brown Ult Dk",
+    "Red": 54,
+    "Green": 31,
+    "Blue": 14
+  },
+  {
+    "DMC": 3371,
+    "Description": "Black Brown",
+    "Red": 30,
+    "Green": 17,
+    "Blue": 8
+  },
+  {
+    "DMC": 543,
+    "Description": "Beige Brown Ult Vy Lt",
+    "Red": 242,
+    "Green": 227,
+    "Blue": 206
+  },
+  {
+    "DMC": 3864,
+    "Description": "Mocha Beige Light",
+    "Red": 203,
+    "Green": 182,
+    "Blue": 156
+  },
+  {
+    "DMC": 3863,
+    "Description": "Mocha Beige Med",
+    "Red": 164,
+    "Green": 131,
+    "Blue": 92
+  },
+  {
+    "DMC": 3862,
+    "Description": "Mocha Beige Dark",
+    "Red": 138,
+    "Green": 110,
+    "Blue": 78
+  },
+  {
+    "DMC": 3031,
+    "Description": "Mocha Brown Vy Dk",
+    "Red": 75,
+    "Green": 60,
+    "Blue": 42
+  },
+  {
+    "DMC": "B5200",
+    "Description": "Snow White",
+    "Red": 255,
+    "Green": 255,
+    "Blue": 255
+  },
+  {
+    "DMC": "White",
+    "Description": "White",
+    "Red": 252,
+    "Green": 251,
+    "Blue": 248
+  },
+  {
+    "DMC": 3865,
+    "Description": "Winter White",
+    "Red": 249,
+    "Green": 247,
+    "Blue": 241
+  },
+  {
+    "DMC": "ECRU",
+    "Description": "Ecru",
+    "Red": 240,
+    "Green": 234,
+    "Blue": 218
+  },
+  {
+    "DMC": 822,
+    "Description": "Beige Gray Light",
+    "Red": 231,
+    "Green": 226,
+    "Blue": 211
+  },
+  {
+    "DMC": 644,
+    "Description": "Beige Gray Med",
+    "Red": 221,
+    "Green": 216,
+    "Blue": 203
+  },
+  {
+    "DMC": 642,
+    "Description": "Beige Gray Dark",
+    "Red": 164,
+    "Green": 152,
+    "Blue": 120
+  },
+  {
+    "DMC": 640,
+    "Description": "Beige Gray Vy Dk",
+    "Red": 133,
+    "Green": 123,
+    "Blue": 97
+  },
+  {
+    "DMC": 3787,
+    "Description": "Brown Gray Dark",
+    "Red": 98,
+    "Green": 93,
+    "Blue": 80
+  },
+  {
+    "DMC": 3021,
+    "Description": "Brown Gray Vy Dk",
+    "Red": 79,
+    "Green": 75,
+    "Blue": 65
+  },
+  {
+    "DMC": 3024,
+    "Description": "Brown Gray Vy Lt",
+    "Red": 235,
+    "Green": 234,
+    "Blue": 231
+  },
+  {
+    "DMC": 3023,
+    "Description": "Brown Gray Light",
+    "Red": 177,
+    "Green": 170,
+    "Blue": 151
+  },
+  {
+    "DMC": 3022,
+    "Description": "Brown Gray Med",
+    "Red": 142,
+    "Green": 144,
+    "Blue": 120
+  },
+  {
+    "DMC": 535,
+    "Description": "Ash Gray Vy Lt",
+    "Red": 99,
+    "Green": 100,
+    "Blue": 88
+  },
+  {
+    "DMC": 3033,
+    "Description": "Mocha Brown Vy Lt",
+    "Red": 227,
+    "Green": 216,
+    "Blue": 204
+  },
+  {
+    "DMC": 3782,
+    "Description": "Mocha Brown Lt",
+    "Red": 210,
+    "Green": 188,
+    "Blue": 166
+  },
+  {
+    "DMC": 3032,
+    "Description": "Mocha Brown Med",
+    "Red": 179,
+    "Green": 159,
+    "Blue": 139
+  },
+  {
+    "DMC": 3790,
+    "Description": "Beige Gray Ult Dk",
+    "Red": 127,
+    "Green": 106,
+    "Blue": 85
+  },
+  {
+    "DMC": 3781,
+    "Description": "Mocha Brown Dk",
+    "Red": 107,
+    "Green": 87,
+    "Blue": 67
+  },
+  {
+    "DMC": 3866,
+    "Description": "Mocha Brn Ult Vy Lt",
+    "Red": 250,
+    "Green": 246,
+    "Blue": 240
+  },
+  {
+    "DMC": 842,
+    "Description": "Beige Brown Vy Lt",
+    "Red": 209,
+    "Green": 186,
+    "Blue": 161
+  },
+  {
+    "DMC": 841,
+    "Description": "Beige Brown Lt",
+    "Red": 182,
+    "Green": 155,
+    "Blue": 126
+  },
+  {
+    "DMC": 840,
+    "Description": "Beige Brown Med",
+    "Red": 154,
+    "Green": 124,
+    "Blue": 92
+  },
+  {
+    "DMC": 839,
+    "Description": "Beige Brown Dk",
+    "Red": 103,
+    "Green": 85,
+    "Blue": 65
+  },
+  {
+    "DMC": 838,
+    "Description": "Beige Brown Vy Dk",
+    "Red": 89,
+    "Green": 73,
+    "Blue": 55
+  },
+  {
+    "DMC": 3072,
+    "Description": "Beaver Gray Vy Lt",
+    "Red": 230,
+    "Green": 232,
+    "Blue": 232
+  },
+  {
+    "DMC": 648,
+    "Description": "Beaver Gray Lt",
+    "Red": 188,
+    "Green": 180,
+    "Blue": 172
+  },
+  {
+    "DMC": 647,
+    "Description": "Beaver Gray Med",
+    "Red": 176,
+    "Green": 166,
+    "Blue": 156
+  },
+  {
+    "DMC": 646,
+    "Description": "Beaver Gray Dk",
+    "Red": 135,
+    "Green": 125,
+    "Blue": 115
+  },
+  {
+    "DMC": 645,
+    "Description": "Beaver Gray Vy Dk",
+    "Red": 110,
+    "Green": 101,
+    "Blue": 92
+  },
+  {
+    "DMC": 844,
+    "Description": "Beaver Gray Ult Dk",
+    "Red": 72,
+    "Green": 72,
+    "Blue": 72
+  },
+  {
+    "DMC": 762,
+    "Description": "Pearl Gray Vy Lt",
+    "Red": 236,
+    "Green": 236,
+    "Blue": 236
+  },
+  {
+    "DMC": 415,
+    "Description": "Pearl Gray",
+    "Red": 211,
+    "Green": 211,
+    "Blue": 214
+  },
+  {
+    "DMC": 318,
+    "Description": "Steel Gray Lt",
+    "Red": 171,
+    "Green": 171,
+    "Blue": 171
+  },
+  {
+    "DMC": 414,
+    "Description": "Steel Gray Dk",
+    "Red": 140,
+    "Green": 140,
+    "Blue": 140
+  },
+  {
+    "DMC": 168,
+    "Description": "Pewter Very Light",
+    "Red": 209,
+    "Green": 209,
+    "Blue": 209
+  },
+  {
+    "DMC": 169,
+    "Description": "Pewter Light",
+    "Red": 132,
+    "Green": 132,
+    "Blue": 132
+  },
+  {
+    "DMC": 317,
+    "Description": "Pewter Gray",
+    "Red": 108,
+    "Green": 108,
+    "Blue": 108
+  },
+  {
+    "DMC": 413,
+    "Description": "Pewter Gray Dark",
+    "Red": 86,
+    "Green": 86,
+    "Blue": 86
+  },
+  {
+    "DMC": 3799,
+    "Description": "Pewter Gray Vy Dk",
+    "Red": 66,
+    "Green": 66,
+    "Blue": 66
+  },
+  {
+    "DMC": 310,
+    "Description": "Black",
+    "Red": 0,
+    "Green": 0,
+    "Blue": 0
+  }
+]
