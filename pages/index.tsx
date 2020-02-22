@@ -17,7 +17,7 @@ export default observer(() => {
     <div className="App">
       <Header name={name} />
       {userThreads.map(thread => (
-        <FlossCard {...thread} />
+        <FlossCard {...thread} key={thread.color} />
       ))}
       <Link href="/about">
         <a>About</a>
