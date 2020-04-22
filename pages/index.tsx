@@ -7,16 +7,16 @@ import Header from '../components/Header';
 
 export default observer(() => {
   const { name, threadNumbers } = useUserStore();
-  const { DMCthreads } = useThreadStore();
+  const { DMCfloss } = useThreadStore();
 
-  const userThreads = DMCthreads.filter(color =>
-    threadNumbers.includes(color['DMC']),
+  const userThreads = DMCfloss.filter((floss) =>
+    threadNumbers.includes(floss.color),
   );
 
   return (
     <div className="App">
       <Header name={name} />
-      {userThreads.map(thread => (
+      {userThreads.map((thread) => (
         <FlossCard {...thread} key={thread.color} />
       ))}
       <Link href="/about">
