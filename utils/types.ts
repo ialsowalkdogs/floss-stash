@@ -1,6 +1,6 @@
 export interface Floss {
   brand: string;
-  color: number;
+  color: number | string;
   r: number;
   g: number;
   b: number;

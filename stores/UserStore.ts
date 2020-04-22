@@ -7,11 +7,11 @@ export class UserStore {
   @observable name = '';
   @observable threads = [{ color: 760, quantity: 1 }];
 
-  @computed get threadNumbers() {
-    return this.threads.map(thread => thread.color);
+  @computed get threadNumbers(): Array<number | string> {
+    return this.threads.map((thread) => thread.color);
   }
 
-  @action setName = name => {
+  @action setName = (name) => {
     this.name = name;
   };
 }

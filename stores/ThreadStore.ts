@@ -4,11 +4,12 @@ import dmc from '../utils/dmc-chart.json';
 import { Floss } from '../utils/types.js';
 
 export class ThreadStore {
-  id = Math.random();
-  @observable DMCthreads: Floss[] = dmc;
+  @observable DMCthreads: Floss[] = dmc.map(({ DMC, ...rest }) => {
+    return { ...rest, brand: 'DMC', color: DMC };
+  });
 
-  @computed get colors(): number[] {
-    return this.DMCthreads.map(thread => thread['DMC']);
+  @computed get colors(): Array<string | number> {
+    return this.DMCthreads.map((thread) => thread.color);
   }
 }
 
